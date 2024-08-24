@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Micro AI
 ---
 
@@ -28,3 +29,6 @@
 [**Edge AI**]()
 
 [**Resources**]()
+=======
+# micro-ai
+>>>>>>> 1112e6b11a0f92e40a553fe2f02472f97766fa79
