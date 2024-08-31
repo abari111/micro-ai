@@ -1,31 +1,33 @@
 ### Micro AI
 ---
 
-[**Physics**]()
+[**1. Physics**]()
 
-[**Electronics**]()
+[**2. Electronics**]()
 
-[**Computer organisation & architecture**]()
+[**3. Computer organisation & architecture**]()
 
-[**Computer science essentials**]()
+[**4. Computer science essentials**]()
 
-[**RTOS**]()
+[**5. RTOS**]()
 
-[**Embedded Operating systems**]()
+[**6. Embedded Operating systems**]()
 
-[**Embedded software**]()
+[**7. Embedded software**]()
 
-[**Systems approach to embedded systems**]()
+[**6. Systems approach to embedded systems**]()
 
-[**IoT**: Data acquisition, Processing, Analysis ]()
+[**7. IoT**: Data acquisition, Processing, Analysis ]()
 
-[**Measurement and Product design tools**]()
+[**10. Measurement and Product design tools**]()
 
-[**Product design by examples**]()
+[**11. Product design by examples**]()
 
-[**Domain specific embedded systems**]()
+[**12. Domain specific embedded systems**]()
 
-[**Edge AI**]()
+[**13. Edge AI**]()
 
 [**Resources**]()
-=======
+
+---
+![](llm.png)
