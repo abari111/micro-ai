@@ -1,0 +1,27 @@
+- Embedded systems
+- Program
+- Coding vs programming
+- Software
+- Application
+- Server
+- Tool chain
+- RTOS
+- Emulator
+- Simulator
+- Virtualization
+- Emulation
+- JTAG
+- Debugging
+- Microcontroller
+- System
+- Threading
+- Process
+- Thread
+- Bus
+- I2C
+- V cycle
+- NPU
+- Cross-compiler
+- STM32
+- Raspberry pi
+- Jetson Nano

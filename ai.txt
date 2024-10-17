@@ -1,0 +1,12 @@
+- Machine Learning
+- MLOPS
+- Supervised Learning
+- unsupervised Learning
+- Reinforcement Learning
+- Self-learning
+- Semi-supervised Learning
+- Data validation
+- ML model testing
+- ML model integration
+- Pipeline
+- Model
