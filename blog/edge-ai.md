@@ -43,6 +43,8 @@ Plusieurs techniques d'optimisation existent. Elles optimisent généralement l'
 - 
 ## Resources pour apprendre
 - [TinyML foundation](https://www.youtube.com/@tinyML)
+- [UNIFEI-IESTI01-TinyML-2023.1](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2023.1)
+- [Machine Learning Systems](https://mlsysbook.ai/)
 ## Plus
 - Modèles d'apprentissage automatique sur FPGA
 - LLMs on devices
